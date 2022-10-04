@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lap6OOP/1.0.0": {
+        "runtime": {
+          "lap6OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lap6OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

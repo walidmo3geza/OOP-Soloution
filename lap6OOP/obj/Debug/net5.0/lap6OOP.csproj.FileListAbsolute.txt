@@ -1,0 +1,16 @@
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\bin\Debug\net5.0\lap6OOP.exe
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\bin\Debug\net5.0\lap6OOP.deps.json
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\bin\Debug\net5.0\lap6OOP.runtimeconfig.json
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\bin\Debug\net5.0\lap6OOP.runtimeconfig.dev.json
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\bin\Debug\net5.0\lap6OOP.dll
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\bin\Debug\net5.0\lap6OOP.pdb
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\lap6OOP.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\lap6OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\lap6OOP.AssemblyInfoInputs.cache
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\lap6OOP.AssemblyInfo.cs
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\lap6OOP.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\lap6OOP.dll
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\refint\lap6OOP.dll
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\lap6OOP.pdb
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\lap6OOP.genruntimeconfig.cache
+C:\Users\walid\source\repos\lap2OOP\lap6OOP\obj\Debug\net5.0\ref\lap6OOP.dll
